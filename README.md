@@ -7,6 +7,16 @@
 
 3.待增加
 
+app.py 測試line bot是否成功的程式碼
+
+line_bot.py 我最初參考line bot的程式碼
+
+line_bot_example.ipynb line bot參考筆記
+
+生活小助手(細項串model).ipynb  需要找其他的model(Gemini)
+
+生活小助手(細項整理).ipynb  有點瑣碎
+
 ## 在google colab上 => ngrok
 
 ## 在github上 => Render 
