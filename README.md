@@ -13,4 +13,6 @@
 我Render連到的是這個(lab2)
 
 指令
-'''python app.py'''
+'''python
+python app.py
+'''
