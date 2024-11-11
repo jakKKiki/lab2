@@ -10,6 +10,7 @@
 ## 在google colab上 => ngrok
 
 ## 在github上 => Render 
-### 我Render連到的是這個(lab2)
-### 指令
+我Render連到的是這個(lab2)
+
+指令
 '''python app.py'''
