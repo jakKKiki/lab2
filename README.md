@@ -1,3 +1,7 @@
+# 測試
+
+app.py
+
 # 生活小助手
 
 生活小助手(細項串model).ipynb  需要找其他的model(Gemini)
